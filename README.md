@@ -1,2 +1,2 @@
-# drag-and-drop-project
+# Drag & Drop Project
 Drag and drop implementation with js.
